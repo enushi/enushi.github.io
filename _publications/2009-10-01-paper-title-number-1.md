@@ -13,5 +13,5 @@ We discuss in this survey several network modeling methods and their applicabili
 
 [Download chapter here](https://arxiv.org/abs/2104.09206)
 
-Recommended citation: Elio Nushi, Victor-Bogdan Popescu, Jose Angel Sanchez Martin, Sergiu Ivanov, Eugen Czeizler, Ion Petre. (2021). "Network modeling methods for precision medicine" <i>Systems Biology Modelling and Analysis: Formal Bioinformatics Methods and Tools, 2021 (upcoming)</i>.
+Recommended citation: Elio Nushi, Victor-Bogdan Popescu, Jose Angel Sanchez Martin, Sergiu Ivanov, Eugen Czeizler, Ion Petre. "Network modeling methods for precision medicine" <i>Systems Biology Modelling and Analysis: Formal Bioinformatics Methods and Tools, 2021 (upcoming)</i>.
 
