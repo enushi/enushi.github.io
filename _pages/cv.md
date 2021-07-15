@@ -58,9 +58,8 @@ Talks
   
 Teaching
 ======
-  <ul>No information
-  <!---{% for post in site.teaching %}
+  <ul> {% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}--->
+  {% endfor %}
   </ul>
   

@@ -8,13 +8,4 @@ date: 2021-11-05
 location: "Helsinki, Finland"
 ---
 
-Assisted in teaching the Data analysis with Python course.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisting in teaching the Data analysis with Python course.
