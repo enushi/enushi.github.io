@@ -1,15 +1,15 @@
 ---
-title: "Network modeling methods for precision medicine"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'We discuss in this survey several network modeling methods and their applicability to precision medicine. We review several network centrality methods (degree centrality, closeness centrality, eccentricity centrality, betweenness centrality, and eigenvector-based prestige) and two systems controllability methods (minimum dominating sets and network structural controllability). We demonstrate their applicability to precision medicine on three multiple myeloma patient disease networks. Each network consists of protein-protein interactions built around a specific patient's mutated genes, around the targets of the drugs used in the standard of care in multiple myeloma, and around multiple myeloma-specific essential genes. For each network we demonstrate how the network methods we discuss can be used to identify personalized, targeted drug combinations uniquely suited to that patient.'
-date: 2021-04-19
-venue: 'Systems Biology Modelling and Analysis: Formal Bioinformatics Methods and Tools, 2021 (upcoming)'
-paperurl: 'https://arxiv.org/abs/2104.09206'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-We discuss in this survey several network modeling methods and their applicability to precision medicine. We review several network centrality methods (degree centrality, closeness centrality, eccentricity centrality, betweenness centrality, and eigenvector-based prestige) and two systems controllability methods (minimum dominating sets and network structural controllability). We demonstrate their applicability to precision medicine on three multiple myeloma patient disease networks. Each network consists of protein-protein interactions built around a specific patient's mutated genes, around the targets of the drugs used in the standard of care in multiple myeloma, and around multiple myeloma-specific essential genes. For each network we demonstrate how the network methods we discuss can be used to identify personalized, targeted drug combinations uniquely suited to that patient.
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-[Download chapter here](https://arxiv.org/abs/2104.09206)
-
-Recommended citation: Elio Nushi, Victor-Bogdan Popescu, Jose Angel Sanchez Martin, Sergiu Ivanov, Eugen Czeizler, Ion Petre. (2021). "Network modeling methods for precision medicine" <i>Systems Biology Modelling and Analysis: Formal Bioinformatics Methods and Tools, 2021 (upcoming)</i>.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
