@@ -42,6 +42,7 @@ Skills
 * Skill 3
 --->
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
