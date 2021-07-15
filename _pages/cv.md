@@ -12,21 +12,25 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of New York Tirana, 2017
-* M.S. in Computer Science, Åbo Akademi Universityi, 2020
+* M.S. in Computer Science, Åbo Akademi University, 2020
 * Ph.D in Computational Biology, Helsinki University, 2024 (expected)
 
 Work experience
 ======
 * September 2020 - present : Researcher
   * [Helsinki University](https://www.helsinki.fi/en)
+  * Project theme: Computational Modelling for Clostridium Botulinum
   * Supervisor: [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/)
 
 * August 2019 - July 2020: Software Developer
   * [If P&C Insurance](https://www.if.fi/en/private-customers/insurances)
 
-* August 2019 - July 2020: Software Developer
-  * [If P&C Insurance](https://www.if.fi/en/private-customers/insurances)
+* January 2019 - June 2019: Research Assistant
+  * [Åbo Akademi University](https://www.abo.fi/en/)
+  * Project theme: Applying statistical methods for multiple myeloma patients’ dataset
+  * Supervisors: [Ion Petre](https://users.utu.fi/ionpet/) and [Luigia Petre](http://users.abo.fi/lpetre/)
   
+
 <!---
 Skills
 ======
