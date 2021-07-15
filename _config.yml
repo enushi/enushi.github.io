@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Elio Nushi"
-  avatar           : "profile.png"
-  bio              : "PhD Student in Computer Science"
-  location         : "Helsinki"
+  avatar           : "elionushi.jpg"
+  bio              : "PhD Student"
+  location         : "Finland"
   employer         : "University of Helsinki"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        : "elionushi"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/elio-nushi-helsinki/"
+  linkedin         : "elio-nushi-helsinki/"
   orcid            : 
   pinterest        :
   soundcloud       :
