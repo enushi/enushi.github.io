@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elio Nushi / Personal Website"
+title                    : "Elio Nushi"
 title_separator          : "-"
 name                     : &name "Elio Nushi"
 description              : &description "PhD Student"
